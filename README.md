@@ -38,10 +38,12 @@ Here are the top 25 passwords being used:
      87 getlost123
      87 gerhard
 ```
+(the sorting is kind of weird because multiple machines are using the same wordlist, and I have a bunch of honeypots)
 
 *hkgroup_passwords_sorted.txt* includes all password attempts. The file contains roughly 26,000 unique passwords.
 
 As always, feel free to contact me if you have any questions or feedback.  
 
-andrew@morris.guru
-@andrew___morris
+andrew@morris.guru  
+@andrew___morris  
+
