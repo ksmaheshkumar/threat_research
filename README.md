@@ -61,6 +61,38 @@ Here are the top 10:
     157 SSH-2.0-OpenSSH_5.2
 ```
 
+*all_passwords_sorted.txt* contains a sorted list of all passwords ever attempted against any of my sensors.
+
+Here are the top 25:
+
+```
+   5315 admin
+   4377 -
+   4374 root
+   1792 
+   1713 _
+   1524 123456
+   1404 666666
+   1251 888888
+   1242 123456789
+   1192 password
+   1082 12345
+   1041 1234
+    982 123123
+    934 1qaz2wsx
+    932 1234567890
+    930 admin123
+    926 test
+    922 12345678
+    901 qwe123
+    881 P@ssw0rd
+    879 root123
+    877 qweasd
+    861 toor
+    834 passw0rd
+    833 123abc
+```
+
 
 As always, feel free to contact me if you have any questions or feedback.  
 
