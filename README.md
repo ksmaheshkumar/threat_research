@@ -3,6 +3,8 @@ Threat Research Data
 
 #### HKGroup
 
+12/04/2014
+
 Ongoing attack from Hong Kong targeting SSH servers on the open Internet. Attacks started at the end of November 2014 and are still going through early December 2014.
 
 Attacks are originating from the 103.41.124.0/24 range.
