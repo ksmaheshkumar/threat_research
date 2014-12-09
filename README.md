@@ -97,6 +97,38 @@ Here are the top 25:
    4332 222.186.40.0/24
 ```
 
+#### Usernames
+*all_usernames_sorted.txt* contains a sorted list of all usernames ever attempted on any of my sensors.
+
+Here are the top 25:
+```
+1181501 root  
+  48138 admin
+    308 www
+    292 support
+    243 test
+    199 user
+    199 guest
+    189 ubnt
+    161 ftpuser
+    145 pi
+    129 vyatta
+    122 oracle
+     88 ftp
+     78 PlcmSpIp
+     30 nagios
+     30 adm
+     29 alex
+     27 postgres
+     25 mysql
+     23 info
+     22 library
+     22 adam
+     20 backup
+     19 mike
+     18 uucp
+```
+
 #### Passwords
 
 *all_passwords_sorted.txt* contains a sorted list of all passwords ever attempted against any of my sensors.
