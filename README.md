@@ -3,10 +3,11 @@ Threat Research Data
 
 ## Summary
 
-This page contains data I've collected over the past month using a network of 10-20 SSH honeypots. If you have any questions or feedback, please don't hesitate to reach out and contact me.  
+This page contains data I've collected over the past several months using a network of 10-20 SSH honeypots. If you have any questions or feedback, please don't hesitate to reach out and contact me. 
+
+Credit to Robin Wood (Digininja) for building Pipal, the tool I used for statistical analysis on the passwords.  
 
 Email:    andrew@morris.guru  
-
 Twitter:  https://twitter.com/andrew___morris
 
 ## Statistics
