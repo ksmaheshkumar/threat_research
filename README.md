@@ -118,7 +118,8 @@ Here are the top 25:
 
 ## Password Analysis
 
-Total entries = 1231041
+Total entries = 1231041  
+
 Total unique entries = 203074
 
 #### Top 10 passwords
