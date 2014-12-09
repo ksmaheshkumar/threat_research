@@ -255,22 +255,26 @@ qwerty = 2221 (0.18%)
 0000000000111111111122222222223333333333444444444
 0123456789012345678901234567890123456789012345678
 ```
+```
 One to six characters = 467772 (38.0%)
 One to eight characters = 904190 (73.45'%)
 More than eight characters = 326851 (26.55%)
-
+```
+```
 Only lowercase alpha = 573318 (46.57%)
 Only uppercase alpha = 10308 (0.84%)
 Only alpha = 583626 (47.41%)
 Only numeric = 132800 (10.79%)
-
+```
+```
 First capital last symbol = 4447 (0.36%)
 First capital last number = 23727 (1.93%)
-
+```
+```
 Single digit on the end = 70548 (5.73%)
 Two digits on the end = 40963 (3.33%)
 Three digits on the end = 89652 (7.28%)
-
+```
 #### Last number
 ```
 0 = 40457 (3.29%)
