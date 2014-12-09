@@ -1,7 +1,17 @@
 Threat Research Data
 ===============
 
+## Summary
+
+This page contains data I've collected over the past month using a network of 10-20 SSH honeypots. If you have any questions or feedback, please don't hesitate to reach out and contact me.  
+
+Email:    andrew@morris.guru  
+
+Twitter:  https://twitter.com/andrew___morris
+
 ## Statistics
+
+#### Versions
 
 *versions.txt* is a running list of all SSH versions I've seen connecting to my sensors.
 
@@ -19,6 +29,8 @@ Here are the top 10:
     213 SSH-2.0-Granados-1.0
     157 SSH-2.0-OpenSSH_5.2
 ```
+
+#### Attacker IP Addresses
 
 *all_ips_sorted.txt* is a includes all IP addresses that have ever tried to login to any of my sensors. 
 
@@ -83,6 +95,8 @@ Here are the top 25:
    4677 117.27.158.0/24
    4332 222.186.40.0/24
 ```
+
+#### Passwords
 
 *all_passwords_sorted.txt* contains a sorted list of all passwords ever attempted against any of my sensors.
 
