@@ -459,19 +459,23 @@ specialstringspecial: 863 (0.07%)
 
 #### HKGroup
 
-12/04/2014
+12/12/2014
 
-Ongoing attack from Hong Kong targeting SSH servers on the open Internet. Attacks started at the end of November 2014 $
+Ongoing attack from Hong Kong targeting SSH servers on the open Internet. Attacks started at the end of November 2014.
 
 Attacks are originating from the 103.41.124.0/24 range.
 
-Here are the top 25 passwords being used:
+Here are the top 25 passwords being used (updated on 12/12/2014):
 
 ```
-    196
-    143 123456
-    142 ,.
-    108 123
+    780 
+    307 root
+    196 123456
+    184 123
+    159 ,.
+    123 s
+    113 m
+     92 e
      87 hoang
      87 hitech
      87 hemmelig
@@ -489,17 +493,10 @@ Here are the top 25 passwords being used:
      87 goodday
      87 girlpower
      87 gigi
-     87 ggggggg
-     87 getout
-     87 getlost123
-     87 gerhard
 ```
 (the sorting is kind of weird because multiple machines are using the same wordlist, and I have a bunch of honeypots)
 
-*hkgroup_passwords_sorted.txt* includes all password attempts. The file contains roughly 26,000 unique passwords.
-
-
-
+*hkgroup_passwords_sorted.txt* includes all password attempts. The file contains roughly 75,000 unique passwords (Updated 12/12/2014)
 
 As always, feel free to contact me if you have any questions or feedback.  
 
