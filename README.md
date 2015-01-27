@@ -1,6 +1,10 @@
 Threat Research Data
 ===============
 
+# UPDATE 01/26/2015
+
+All threat-related research has been moved to a centralized (and automated) Github repository. All data can be found [here](https://github.com/animus-project/threat_data).
+
 ## Summary
 
 This page contains data I've collected over the past several months using a network of 10-20 SSH honeypots. If you have any questions or feedback, please don't hesitate to reach out and contact me. 
